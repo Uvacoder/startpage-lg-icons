@@ -2,12 +2,12 @@ const homebarList = [
     {
        name: "Dev",
        icon_url: "https://external-content.duckduckgo.com/ip3/dev.to.ico",
-       link: "https://dev.to"
+       link: "https://dev.to/fu4303"
    },
    {
     name: "Github",
     icon_url: "https://external-content.duckduckgo.com/ip3/github.com.ico",
-    link: "https://github.com"
+    link: "https://github.com/uvacoder"
 },
       {
        name: "DuckDuckGo",
@@ -22,7 +22,7 @@ const homebarList = [
    {
        name: "CodePen",
        icon_url: "https://external-content.duckduckgo.com/ip3/codepen.io.ico",
-       link: "https://codepen.io/"
+       link: "https://codepen.io/uvacoder"
    },
       {
        name: "Hacker News",
